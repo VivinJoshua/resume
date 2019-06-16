@@ -739,7 +739,7 @@ ul.social-links li:last-child a {
 ======================================= */
 .home-page-block-bg .mask {
   position: absolute;
-  background: rgba(55,55,55,0.7);
+  background: rgba(55,55,55,0.6);
   top: 0;
   bottom: 0;
   left: 0;
